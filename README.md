@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![splitlane's GitHub stats](https://github-readme-stats.vercel.app/api?username=splitlane)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13190bot&repo=13190centerstageoffseason2024&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=13190bot&repo=13190offseason2024&show_owner=true)
 
 
 <!--
