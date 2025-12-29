@@ -2,7 +2,15 @@
 - 
 
 # Currently working on
-- [Robotics software built in Java for FIRST Tech Challenge Team 8872](https://github.com/8872)
+- [Robotics software for FIRST Tech Challenge Team 8872](https://github.com/8872)
+- [PyTaiko](https://github.com/Yonokid/PyTaiko) & [SplitlaneTaiko](https://github.com/splitlane/SplitlaneTaiko)
+- Financial analysis tool
+- (and more)
+
+# Technical skills
+- Programming languages: JavaScript & TypeScript, Lua, Java, C++, HTML & CSS
+- Tools: LaTeX, Linux, Git, GitHub Actions, MongoDB
+- Frameworks: Node.js, React, React Native, Next.js, LuaJIT FFI, 
 
 <!--
 
